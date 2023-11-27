@@ -1,0 +1,12 @@
+main()
+{
+    int i,top;
+    float a,result;
+     i=0;
+     while(i<top)
+      {
+          if(a<result) a=a+result;
+           else result=a;
+          i=i+1;
+      }
+}
